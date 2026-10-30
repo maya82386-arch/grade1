@@ -1,0 +1,6 @@
+{
+  "name": "مغامرة الحروف - الصف الأول الأساسي",
+  "description": "موقع تعليمي تفاعلي متكامل لتعليم الحروف الهجائية العربية الـ28 لطلاب الصف الأول بسلطنة عُمان مع ألعاب ومختبر كتابة ونظام تحفيز وشهادة إنجاز.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
